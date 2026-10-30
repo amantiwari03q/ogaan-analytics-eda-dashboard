@@ -259,7 +259,7 @@ def page_users():
                                        text=z.round(1).astype(str).replace("nan", ""), texttemplate="%{text}", showscale=False))
             fig.update_yaxes(autorange="reversed")
             st.plotly_chart(style(fig))
-       with c2:
+    with c2:
         with card("Active users by market"):
             c = load("cities")
             m = c.groupby("market", as_index=False)["active_users"].sum()
