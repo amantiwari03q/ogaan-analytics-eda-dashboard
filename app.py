@@ -259,14 +259,14 @@ def page_users():
                                        text=z.round(1).astype(str).replace("nan", ""), texttemplate="%{text}", showscale=False))
             fig.update_yaxes(autorange="reversed")
             st.plotly_chart(style(fig))
-    with c2:
+       with c2:
         with card("Active users by market"):
             c = load("cities")
             m = c.groupby("market", as_index=False)["active_users"].sum()
             fig = go.Figure(go.Pie(labels=m["market"], values=m["active_users"], hole=.55, marker=dict(colors=[PURPLE, LIGHT, "#4c1d95"])))
             st.plotly_chart(style(fig))
 
-       with card("Top 10 cities"):
+    with card("Top 10 cities"):
         top = c.groupby("metro", as_index=False)["active_users"].sum().sort_values("active_users", ascending=False).head(10)
         st.plotly_chart(style(go.Figure(go.Bar(x=top["metro"], y=top["active_users"], marker_color=PURPLE))))
     st.caption("Delhi and New Delhi are combined into one city (Delhi).")
