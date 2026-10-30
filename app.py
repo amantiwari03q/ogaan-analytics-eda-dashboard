@@ -266,11 +266,10 @@ def page_users():
             fig = go.Figure(go.Pie(labels=m["market"], values=m["active_users"], hole=.55, marker=dict(colors=[PURPLE, LIGHT, "#4c1d95"])))
             st.plotly_chart(style(fig))
 
-    with card("Top cities"):
-        n = st.slider("How many metros", 5, 25, 10)
-        top = c.groupby("metro", as_index=False)["active_users"].sum().sort_values("active_users", ascending=False).head(n)
+       with card("Top 10 cities"):
+        top = c.groupby("metro", as_index=False)["active_users"].sum().sort_values("active_users", ascending=False).head(10)
         st.plotly_chart(style(go.Figure(go.Bar(x=top["metro"], y=top["active_users"], marker_color=PURPLE))))
-    st.caption("Delhi and New Delhi are merged into one metro. City totals exceed unique active users (a user can appear in several cities).")
+    st.caption("Delhi and New Delhi are combined into one city (Delhi).")
 
     st.markdown("### Lead funnel")
     f = [int(d["new_users"].sum()), int(d["qualified_leads"].sum()), int(d["converted_leads"].sum())]
