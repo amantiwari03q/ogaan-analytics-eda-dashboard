@@ -1,0 +1,192 @@
+city,active_users,market,metro
+Delhi,121,Delhi NCR,Delhi
+New Delhi,85,Delhi NCR,Delhi
+Bengaluru,72,Rest of India,Bengaluru
+Gurugram,47,Delhi NCR,Gurugram
+Mumbai,36,Rest of India,Mumbai
+Dubai,23,International,Dubai
+Ludhiana,19,Rest of India,Ludhiana
+Noida,18,Delhi NCR,Noida
+Chennai,12,Rest of India,Chennai
+Ghaziabad,12,Delhi NCR,Ghaziabad
+Jaipur,11,Rest of India,Jaipur
+Ahmedabad,10,Rest of India,Ahmedabad
+Chandigarh,10,Rest of India,Chandigarh
+Hyderabad,10,Rest of India,Hyderabad
+Singapore,9,International,Singapore
+Pune,8,Rest of India,Pune
+Agra,7,Rest of India,Agra
+Faridabad,6,Delhi NCR,Faridabad
+Kolkata,6,Rest of India,Kolkata
+Amritsar,5,Rest of India,Amritsar
+Greater Noida,5,Delhi NCR,Greater Noida
+Jammu,5,Rest of India,Jammu
+Patna,5,Rest of India,Patna
+Raipur,5,Rest of India,Raipur
+Atlanta,4,International,Atlanta
+Los Altos,4,International,Los Altos
+Lucknow,4,Rest of India,Lucknow
+Reston,4,International,Reston
+Riyadh,4,International,Riyadh
+Sonipat,4,Delhi NCR,Sonipat
+Vadodara,4,Rest of India,Vadodara
+Bangkok,3,International,Bangkok
+Bhubaneswar,3,Rest of India,Bhubaneswar
+Jalandhar,3,Rest of India,Jalandhar
+Korba,3,Rest of India,Korba
+Meerut,3,Rest of India,Meerut
+Melbourne,3,International,Melbourne
+Mountain View,3,International,Mountain View
+Muzaffarnagar,3,Rest of India,Muzaffarnagar
+New York,3,International,New York
+Sydney,3,International,Sydney
+Tiruvannamalai,3,Rest of India,Tiruvannamalai
+Abu Dhabi,2,International,Abu Dhabi
+Ajman,2,International,Ajman
+Bhopal,2,Rest of India,Bhopal
+Calpella,2,International,Calpella
+Cupertino,2,International,Cupertino
+Dehradun,2,Rest of India,Dehradun
+Guntur,2,Rest of India,Guntur
+Hamilton,2,International,Hamilton
+Indore,2,Rest of India,Indore
+Jabalpur,2,Rest of India,Jabalpur
+Kalyan,2,Rest of India,Kalyan
+Kanpur,2,Rest of India,Kanpur
+Kochi,2,Rest of India,Kochi
+Los Altos Hills,2,International,Los Altos Hills
+Los Angeles,2,International,Los Angeles
+Moradabad,2,Rest of India,Moradabad
+Nagpur,2,Rest of India,Nagpur
+Rajamahendravaram,2,Rest of India,Rajamahendravaram
+Sahibzada Ajit Singh Nagar,2,Rest of India,Sahibzada Ajit Singh Nagar
+San Francisco,2,International,San Francisco
+Santa Clara,2,International,Santa Clara
+Seattle,2,International,Seattle
+Sharjah,2,International,Sharjah
+Shimla,2,Rest of India,Shimla
+Siliguri,2,Rest of India,Siliguri
+Srinagar,2,Rest of India,Srinagar
+Sunnyvale,2,International,Sunnyvale
+Surat,2,Rest of India,Surat
+Vapi,2,Rest of India,Vapi
+Abohar,1,Rest of India,Abohar
+Addison,1,International,Addison
+Adelaide,1,International,Adelaide
+Ajmer,1,Rest of India,Ajmer
+Akola,1,Rest of India,Akola
+Al Farwaniyah,1,International,Al Farwaniyah
+Ambala Cantt,1,Rest of India,Ambala Cantt
+Anantapur,1,Rest of India,Anantapur
+Asuncion,1,International,Asuncion
+Auckland,1,International,Auckland
+Bavla,1,Rest of India,Bavla
+Bedford,1,International,Bedford
+Bellevue,1,International,Bellevue
+Bhabat,1,Rest of India,Bhabat
+Bhimavaram,1,Rest of India,Bhimavaram
+Bhiwani,1,Rest of India,Bhiwani
+Bhora Kalan,1,Rest of India,Bhora Kalan
+Bidar,1,Rest of India,Bidar
+Boston,1,International,Boston
+Buraydah,1,International,Buraydah
+Caledon,1,International,Caledon
+Campbell,1,International,Campbell
+Charlotte,1,International,Charlotte
+Chhatrapati Sambhajinagar,1,Rest of India,Chhatrapati Sambhajinagar
+Chicago,1,International,Chicago
+Coimbatore,1,Rest of India,Coimbatore
+Columbia,1,International,Columbia
+Cork,1,International,Cork
+Daringibadi,1,Rest of India,Daringibadi
+Dhaka,1,International,Dhaka
+Dhamdod,1,Rest of India,Dhamdod
+Dhenkanal,1,Rest of India,Dhenkanal
+Dibba Al-Fujairah,1,International,Dibba Al-Fujairah
+Fatwah,1,Rest of India,Fatwah
+Foster City,1,International,Foster City
+Fremont,1,International,Fremont
+Fresno,1,International,Fresno
+Gurnee,1,International,Gurnee
+Gwalior,1,Rest of India,Gwalior
+Hassan,1,Rest of India,Hassan
+Hong Kong,1,International,Hong Kong
+Jagadhri,1,Rest of India,Jagadhri
+Jaito,1,Rest of India,Jaito
+Jaspur,1,Rest of India,Jaspur
+Jaunpur,1,Rest of India,Jaunpur
+Jeddah,1,International,Jeddah
+Jersey City,1,International,Jersey City
+Jind,1,Rest of India,Jind
+Jorhat,1,Rest of India,Jorhat
+Kadapa,1,Rest of India,Kadapa
+Kaithal,1,Rest of India,Kaithal
+Karur,1,Rest of India,Karur
+Kathmandu,1,International,Kathmandu
+Khammam,1,Rest of India,Khammam
+Kharagpur,1,Rest of India,Kharagpur
+Kharar,1,Rest of India,Kharar
+Khopoli,1,Rest of India,Khopoli
+Khurja,1,Rest of India,Khurja
+Kota,1,Rest of India,Kota
+Kozhikode,1,Rest of India,Kozhikode
+Ladera Ranch,1,International,Ladera Ranch
+Langley Township,1,International,Langley Township
+Lewisville,1,International,Lewisville
+Livingston,1,International,Livingston
+London,1,International,London
+London Colney,1,International,London Colney
+Machilipatnam,1,Rest of India,Machilipatnam
+Madrid,1,International,Madrid
+Matar,1,Rest of India,Matar
+McKinney,1,International,McKinney
+Mehsana,1,Rest of India,Mehsana
+Middletown,1,International,Middletown
+Monroe Township,1,International,Monroe Township
+Muscat,1,International,Muscat
+Mysuru,1,Rest of India,Mysuru
+Nalgonda,1,Rest of India,Nalgonda
+Nashik,1,Rest of India,Nashik
+Nayagaon,1,Rest of India,Nayagaon
+North Dumdum,1,Rest of India,North Dumdum
+Oakland,1,International,Oakland
+Ongole,1,Rest of India,Ongole
+Padrauna,1,Rest of India,Padrauna
+Panchkula,1,Rest of India,Panchkula
+Panipat,1,Rest of India,Panipat
+Perris,1,International,Perris
+Pimpri-Chinchwad,1,Rest of India,Pimpri-Chinchwad
+Plainfield,1,International,Plainfield
+Plainview,1,International,Plainview
+Plano,1,International,Plano
+Prague,1,International,Prague
+Rajapalayam,1,Rest of India,Rajapalayam
+Rajnandgaon,1,Rest of India,Rajnandgaon
+Rajsamand,1,Rest of India,Rajsamand
+Ranchi,1,Rest of India,Ranchi
+Ratia,1,Rest of India,Ratia
+Rishikesh,1,Rest of India,Rishikesh
+Salmiya,1,International,Salmiya
+Salt Lake City,1,International,Salt Lake City
+Sambalpur,1,Rest of India,Sambalpur
+San Diego,1,International,San Diego
+San Jose,1,International,San Jose
+San Mateo,1,International,San Mateo
+Saratoga,1,International,Saratoga
+Shivamogga,1,Rest of India,Shivamogga
+Shizuoka,1,International,Shizuoka
+Sikar,1,Rest of India,Sikar
+Sohna,1,Delhi NCR,Sohna
+Solapur,1,Rest of India,Solapur
+Spokane,1,International,Spokane
+Sri Ganganagar,1,Rest of India,Sri Ganganagar
+St Albans,1,International,St Albans
+Stewartby,1,International,Stewartby
+Thane,1,Rest of India,Thane
+Thiruvananthapuram,1,Rest of India,Thiruvananthapuram
+Tumakuru,1,Rest of India,Tumakuru
+Udaipur,1,Rest of India,Udaipur
+Varanasi,1,Rest of India,Varanasi
+Vidisha,1,Rest of India,Vidisha
+Villa Carlos Paz,1,International,Villa Carlos Paz
+Warangal,1,Rest of India,Warangal

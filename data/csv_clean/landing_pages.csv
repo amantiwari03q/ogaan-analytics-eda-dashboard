@@ -1,0 +1,53 @@
+landing_page,sessions,active_users,new_users,key_events,total_revenue,average_engagement_time_per_session,session_key_event_rate,page_group,page_template
+(not set),2000,576,364,404,3106.769914,518.59,0.195,(not set),(not set)
+/home,53,6,0,6,1141.7808,453.43,0.0755,Home,/home
+/profile,28,6,0,2,468.922109,144.25,0.0714,Profile,/profile
+/orders,18,6,0,10,2406.64432,1172.17,0.1667,Orders,/orders
+/,16,9,1,1,447.933784,37.69,0.0625,Home,/
+/onboarding/welcome,14,11,3,0,0.0,146.93,0.0,Onboarding,/onboarding/welcome
+/designers/categories,12,2,0,0,0.0,84.0,0.0,Designers,/designers/categories
+/onboarding/sign-in,10,8,0,0,0.0,104.0,0.0,Onboarding,/onboarding/sign-in
+/orders/480,10,2,0,0,0.0,8.5,0.0,Orders,/orders/:id
+/designers/612,8,1,0,0,0.0,130.88,0.0,Designers,/designers/:id
+/categories/11,6,2,0,0,0.0,17.0,0.0,Categories,/categories/:id
+/categories/7081,6,1,0,0,0.0,172.33,0.0,Categories,/categories/:id
+/orders/492,6,1,0,0,0.0,0.0,0.0,Orders,/orders/:id
+/categories,5,3,1,0,0.0,12.4,0.0,Categories,/categories
+/products/122122,5,1,0,0,0.0,1.0,0.0,Product detail,/products/:id
+/designers/7125,4,3,0,0,0.0,58.75,0.0,Designers,/designers/:id
+/products/106096,4,1,0,0,0.0,0.0,0.0,Product detail,/products/:id
+/products/106121,4,1,0,0,0.0,16.5,0.0,Product detail,/products/:id
+/products/9687,4,1,0,0,0.0,3.75,0.0,Product detail,/products/:id
+/designers/164,3,2,0,0,0.0,140.0,0.0,Designers,/designers/:id
+/favorites,3,1,0,2,473.896216,83.67,0.3333,Favorites,/favorites
+/orders/474,3,1,0,0,0.0,429.33,0.0,Orders,/orders/:id
+/products/7534,3,1,0,0,0.0,0.0,0.0,Product detail,/products/:id
+/designers/2287,2,1,0,0,0.0,1.0,0.0,Designers,/designers/:id
+/designers/282,2,1,0,0,0.0,0.0,0.0,Designers,/designers/:id
+/orders/331,2,1,0,0,0.0,0.0,0.0,Orders,/orders/:id
+/orders/455,2,2,0,3,1674.433299,1411.0,0.5,Orders,/orders/:id
+/orders/466,2,1,0,0,0.0,0.0,0.0,Orders,/orders/:id
+/orders/498,2,1,0,0,0.0,439.0,0.0,Orders,/orders/:id
+/products/137324,2,2,0,0,0.0,253.0,0.0,Product detail,/products/:id
+/products/3064,2,1,0,0,0.0,4.5,0.0,Product detail,/products/:id
+/profile/addresses,2,2,0,0,0.0,231.5,0.0,Profile,/profile/addresses
+/categories/839,1,1,0,0,0.0,2077.0,0.0,Categories,/categories/:id
+/checkout/confirmation,1,1,0,0,0.0,1033.0,0.0,Checkout,/checkout/confirmation
+/designers,1,1,0,0,0.0,170.0,0.0,Designers,/designers
+/designers/168,1,1,0,0,0.0,6.0,0.0,Designers,/designers/:id
+/designers/88,1,1,0,0,0.0,458.0,0.0,Designers,/designers/:id
+/designers/90,1,1,0,0,0.0,0.0,0.0,Designers,/designers/:id
+/orders/339,1,1,0,0,0.0,1069.0,0.0,Orders,/orders/:id
+/orders/38,1,1,0,0,0.0,1224.0,0.0,Orders,/orders/:id
+/orders/452,1,1,0,0,0.0,405.0,0.0,Orders,/orders/:id
+/orders/477,1,1,0,0,0.0,0.0,0.0,Orders,/orders/:id
+/orders/490,1,1,0,0,0.0,634.0,0.0,Orders,/orders/:id
+/orders/507,1,1,0,0,0.0,0.0,0.0,Orders,/orders/:id
+/orders/511,1,1,0,0,0.0,1245.0,0.0,Orders,/orders/:id
+/orders/6104,1,1,0,0,0.0,0.0,0.0,Orders,/orders/:id
+/products/7969,1,1,0,0,0.0,34.0,0.0,Product detail,/products/:id
+/products/91220,1,1,0,0,0.0,0.0,0.0,Product detail,/products/:id
+/products/92659,1,1,1,0,0.0,66.0,0.0,Product detail,/products/:id
+/products/9291,1,1,0,0,0.0,73.0,0.0,Product detail,/products/:id
+/products/9711,1,1,0,2,358.111489,324.0,1.0,Product detail,/products/:id
+/profile/feedback,1,1,0,0,0.0,3026.0,0.0,Profile,/profile/feedback

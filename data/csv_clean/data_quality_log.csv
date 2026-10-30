@@ -1,0 +1,10 @@
+table,issue,detail,action
+traffic_acquisition,Duplicate file,Two uploaded files are 100% identical,"Kept one, dropped the other"
+landing_pages,Duplicate key '(not set)',Appears twice with different metric values (GA splits it by screen class/page title),"Merged into one row: sums for sessions/new users/key events/revenue, session-weighted averages for rates, max() for active users (lower bound)"
+cross-file,Sessions don't reconcile,"2,115 (audiences) vs 2,128 (channels) vs 2,263 (landing pages)","Flagged only — different GA reports use different session attribution/thresholding; revenue DOES reconcile (10,078.49) in all 3"
+cross-file,Key events don't reconcile,408 (channels = platform) vs 430 (landing page),Flagged only
+traffic_acquisition,"'Unassigned' has 0 engaged sessions but ~1,097 s engagement time","172 sessions, engagement rate = 0% yet avg engagement time > 18 min",Flagged — likely tracking/attribution bug (sessions with no session_start / source)
+user_acquisition,New + Returning ≠ Total users,e.g. Direct: 293 + 263 = 556 vs 512 total (GA counts users in both buckets over the period),Kept as-is; do not add the two
+cities,City users add up to more than active users,Σ city active users = 786 vs 586 'All Users' — users seen in >1 city,"Flagged; city table used only for ranking/share, not totals"
+daily_users_leads,Lead events never fire,Qualified leads = 0 and Converted leads = 0 on all 28 days,Flagged — 'Generate leads' funnel is untracked; fix GA event setup before reporting lead KPIs
+cities,'Delhi' and 'New Delhi' are the same metro,121 + 85 users listed under two names,Added `metro` column merging them; also added `market` (Delhi NCR / Rest of India / International) — manual mapping

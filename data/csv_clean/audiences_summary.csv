@@ -1,0 +1,3 @@
+audience,total_users,new_users,sessions,views_per_session,average_session_duration,total_revenue,conversion_rate_pct
+All Users,604,348,2115,14.4879432624113,1071.03433901796,10078.491931,100.0
+Purchasers,11,1,184,28.5217391304347,2733.29387573913,10078.491931,1.82

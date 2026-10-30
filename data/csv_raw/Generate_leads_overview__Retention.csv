@@ -1,0 +1,15 @@
+Report,How well do you retain your users?,,,,,
+Account,Default Account for Firebase,,,,,
+Property,ogaan-trynbuy,,,,,
+Start date,13-Sep-2026,,,,,
+End date,24-Oct-2026,,,,,
+,,,,,,
+Date,Week 0,Week 1,Week 2,Week 3,Week 4,Week 5
+13 Sept - 19 Sept,110,17,12,11,8,6
+20 Sept - 26 Sept,93,14,10,12,13,
+27 Sept - 3 Oct,67,7,8,5,,
+4 Oct - 10 Oct,96,14,11,,,
+11 Oct - 17 Oct,76,8,,,,
+18 Oct - 24 Oct,102,,,,,
+,,,,,,
+Blank cells = no data yet for that week (shown as -1 in the original export).,,,,,,
