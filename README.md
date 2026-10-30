@@ -91,6 +91,3 @@ The app reads from `data/csv_clean/`, which is already included, so step 2 is on
 - **Currency:** GA revenue is in the GA property's currency, which is not stated in the exports. Do not compare it directly with the rupee figures from the sales dashboard.
 - **Market grouping:** the Delhi NCR / Rest of India / International mapping was done manually and may need review.
 
-## License
-
-MIT. See [LICENSE](LICENSE).
