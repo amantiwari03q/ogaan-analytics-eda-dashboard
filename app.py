@@ -17,7 +17,7 @@ TODAY = date.today()
 st.set_page_config(page_title="Ogaan Analytics", page_icon="📊", layout="wide")
 st.markdown(f"""
 <style>
-.block-container {{padding-top: 4rem; max-width: 1400px;}}
+.block-container {{padding-top: 6rem; max-width: 1400px;}}
 h1 {{font-weight: 700; margin-bottom: 0;}}
 .sub {{color: {GREY}; margin: 0 0 1rem 0;}}
 div[data-testid="stVerticalBlockBorderWrapper"] {{background:#fafafa; border-radius:16px;}}
