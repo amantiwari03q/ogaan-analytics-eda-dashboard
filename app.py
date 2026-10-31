@@ -17,11 +17,13 @@ TODAY = date.today()
 st.set_page_config(page_title="Ogaan Analytics", page_icon="📊", layout="wide")
 st.markdown(f"""
 <style>
-.block-container {{padding-top: 2rem; max-width: 1400px;}}
+.block-container {{padding-top: 4rem; max-width: 1400px;}}
 h1 {{font-weight: 700; margin-bottom: 0;}}
 .sub {{color: {GREY}; margin: 0 0 1rem 0;}}
 div[data-testid="stVerticalBlockBorderWrapper"] {{background:#fafafa; border-radius:16px;}}
 .card-title {{font-size:1.05rem; margin-bottom:.4rem;}}
+.stButton button {{padding: .25rem .4rem; width: 100%;}}
+.stButton button p {{white-space: nowrap; overflow: visible; text-overflow: clip; font-size: .82rem;}}
 .kpi {{background:#fafafa; border:1px solid #e5e5e5; border-radius:14px; padding:14px 18px;}}
 .kpi .l {{color:{GREY}; font-size:.8rem;}} .kpi .v {{font-size:1.6rem; font-weight:700; color:#111;}}
 table.clean {{width:100%; border-collapse:collapse; font-size:.95rem;}}
@@ -75,7 +77,7 @@ def style(fig, h=340):
 
 def date_header(title, subtitle, key, default_start, default_end, lo=None, hi=None):
     """Title on the left, date range + quick buttons on the right (like the reference dashboard)."""
-    left, right = st.columns([3, 2])
+    left, right = st.columns([2, 3])
     left.markdown(f"# {title}")
     left.markdown(f'<p class="sub">{subtitle}</p>', unsafe_allow_html=True)
     ks, ke = f"{key}_start", f"{key}_end"
